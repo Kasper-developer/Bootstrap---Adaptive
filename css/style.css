@@ -1,0 +1,31 @@
+.title {
+	margin-top: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 82px;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;	
+}
+
+.col, .col-12, .col-md-6, .col-lg-4, .col-xl-2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+	margin-bottom: 20px;
+}
+
+span {
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.img {
+	margin-bottom: 21px;
+}
