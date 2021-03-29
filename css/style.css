@@ -1,3 +1,7 @@
+body {
+	background-color: #782314;
+}
+
 .title {
 	margin-top: 300px;
 	display: flex;
